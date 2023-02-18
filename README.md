@@ -1,4 +1,4 @@
-# 📟🖥️ Organização de Computadores
+# :pager::desktop_computer: Organização de Computadores
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -34,4 +34,4 @@ Para mais informações acesse: [Texas Instruments](https://www.ti.com/tool/EK-T
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](%EF%B8%8F-organização-de-computadores)<br>
+[⬆ Voltar ao topo](#pagerdesktop_computer-organização-de-computadores)<br>
