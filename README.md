@@ -5,14 +5,17 @@
 ## ℹ Tabela de Conteúdos
 - [Descrição do Projeto](#dart-projetos-da-cadeira-de-organização-de-computadores-20222)
 - [Especificações](#-especificações-do-projeto)
-- [Projeto 1](projeto1)
+- [Projeto 1: Hibernation Module](hibernation-module)
 - [Projeto 2](projeto2)
 
 ## :dart: Projetos da Cadeira de Organização de Computadores 2022.2
 
 Apresentar ao estudante conceitos básicos de organização de computadores, capacitando-o a melhor compreender o desenvolvimento das tecnologias de processadores, barramentos, dispositivos de armazenamento e de entrada e saída.
 
-![Tiva C](images/tiva-c.png)
+<div align="center">
+
+  ![Tiva C](images/tiva-c.png)
+</div>
 
 > Tiva-C Launchpads é uma plataforma de prototipagem eletrônica de microcontroladores criado pela Texas Instruments. As placas são do tamanho aproximado de um cartão de crédito. São equipadas com um microcontrolador ARM Cortex-M4F CPU de 32 bits operando a 80 a 120 MHz, fabricado pela Texas Instruments.
 
