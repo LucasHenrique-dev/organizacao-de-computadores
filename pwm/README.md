@@ -8,13 +8,9 @@ Neste projeto, usaremos o PWM no TIVA C para controlar a intensidade de luz de u
   ![PWM Descrição](../images/pwm-descricao.png)
 </div>
 
-> Visualização da placa e atividades realizadas no projeto
-
-## ☕ Usando o PWM
+> Informações sobre o PWM
 
 ## 🧑‍🏫 Material de Apresentação
 - Google Slides: [Grupo 3 - PWM](https://docs.google.com/presentation/d/1Q2JF3QSCywo8wbGO-fFECHDjjYlA4K3Af3v8qYpoJRc/edit?usp=sharing)
-
-## 🏆 Resultados
 
 [⬆ Voltar ao topo](#pwm-pulse-width-modulation---modulação-por-largura-de-pulso)
