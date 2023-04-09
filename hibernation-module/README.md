@@ -10,11 +10,7 @@ Neste projeto, usaremos o módulo de hibernação para colocar o dispositivo em 
 
 > Visualização da placa e atividades realizadas no projeto
 
-## ☕ Usando o Hibernation Module
-
 ## 🧑‍🏫 Material de Apresentação
 - Google Slides: [Grupo 3 - Hibernation Module](https://docs.google.com/presentation/d/1vdXt30Ep_JswHnsb5rP0BO9SPghIavu8AaX2NF7PYdA/edit?usp=sharing)
-
-## 🏆 Resultados
 
 [⬆ Voltar ao topo](#hibernation-module)
