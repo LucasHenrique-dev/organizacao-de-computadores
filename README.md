@@ -6,7 +6,7 @@
 - [Descrição do Projeto](#dart-projetos-da-cadeira-de-organização-de-computadores-20222)
 - [Especificações](#-especificações-do-projeto)
 - [Projeto 1: Hibernation Module](hibernation-module)
-- [Projeto 2](projeto2)
+- [Projeto 2: PWM](pwm)
 
 ## :dart: Projetos da Cadeira de Organização de Computadores 2022.2
 
